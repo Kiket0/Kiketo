@@ -41,6 +41,6 @@ Estoy en constante aprendizaje y en búsqueda de nuevos retos que me permitan ap
 
 ## 📫 ¿Quieres contactarme?
 
-Puedes escribirme por aquí o a través de [LinkedIn](https://www.linkedin.com/) *(ajusta el enlace a tu perfil real)*.
+Puedes escribirme por aquí o a través de [LinkedIn](https://www.linkedin.com/) 
 
 ---
